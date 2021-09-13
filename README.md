@@ -2,6 +2,8 @@
 ### Programming Software...
 ### Using 999999999999999 Frameworks
 
+twitter:https://twitter.com/Anima_C13L
+
 <!--
 **animaone/animaone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
