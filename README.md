@@ -4,8 +4,9 @@
 
 Twitter: https://twitter.com/Anima_C13L
 
-
 Discord: Anima C13.#7595 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
 
 <!--
 **animaone/animaone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
