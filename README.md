@@ -2,7 +2,7 @@
 #### Programming Software...
 #### Using 999999999999999 Frameworks
 
-### Mastodon: @Anima_C13L@mas.to https://mas.to/@Anima_C13L
+### Mastodon: ```@Anima_C13L@mas.to```     https://mas.to/@Anima_C13L
 
 ### Twitter: https://twitter.com/Anima_C13L
 
