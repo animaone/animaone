@@ -1,7 +1,7 @@
-### Twitter: https://twitter.com/Anima_C13L
-### Discord old user: Anima C13.#7595 
-### Discord unique user: anima_c13
-### Mastodon (if twitter explodes): ```@Anima_C13L@mas.to```     https://mas.to/@Anima_C13L
+#### Twitter: https://twitter.com/Anima_C13L
+#### Discord old user: Anima C13.#7595 
+#### Discord unique user: anima_c13
+#### Mastodon (if twitter explodes): ```@Anima_C13L@mas.to```     https://mas.to/@Anima_C13L
 
 
 
