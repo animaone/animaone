@@ -5,4 +5,4 @@
 
 * Mastodon (if twitter explodes): [https://mas.to/@Anima_C13L](https://mas.to/@Anima_C13L)
 
-* Nostr (social media decentralization) [https://nostter.app/npub12gg8auet052sfun8830e9hvcsngvs4h77md945mflmlvxeaf2trq4d0je5](https://nostter.app/npub12gg8auet052sfun8830e9hvcsngvs4h77md945mflmlvxeaf2trq4d0je5)
+* Nostr (decentralized social media) [https://nostter.app/npub12gg8auet052sfun8830e9hvcsngvs4h77md945mflmlvxeaf2trq4d0je5](https://nostter.app/npub12gg8auet052sfun8830e9hvcsngvs4h77md945mflmlvxeaf2trq4d0je5)
