@@ -3,4 +3,4 @@
 
 * Discord user: anima_c13
 
-* Nostr (decentralized social media) [https://nostter.app/npub12gg8auet052sfun8830e9hvcsngvs4h77md945mflmlvxeaf2trq4d0je5](https://nostter.app/npub12gg8auet052sfun8830e9hvcsngvs4h77md945mflmlvxeaf2trq4d0je5)
+* Nostr [https://w3%2edo/g84zp3Nv](https://w3%2edo/g84zp3Nv)
